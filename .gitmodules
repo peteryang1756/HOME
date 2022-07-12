@@ -1,0 +1,3 @@
+[submodule "reference/mkdocs-material"]
+	path = reference/mkdocs-material
+	url = https://github.com/ssangyongsports/mkdocs-material.git
